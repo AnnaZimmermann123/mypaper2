@@ -1,3 +1,5 @@
+Autor Anna Zimmermann
+
 # Title
 Paper on resent findings
 ## Abstract
